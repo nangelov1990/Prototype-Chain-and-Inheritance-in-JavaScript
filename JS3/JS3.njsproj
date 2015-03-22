@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0960cccc-e1a6-4ccb-926b-66f5aadfa8a8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>scripts\2D-Geometry-Structure(Pseudo-Classical-Model).js</StartupFile>
+    <StartupFile>scripts\2D-Geometry-Structure(Prototypal-Model).js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Compile Include="scripts\2D-Geometry-Structure%28Prototypal-Model%29.js" />
     <Compile Include="scripts\2D-Geometry-Structure%28Pseudo-Classical-Model%29.js" />
     <Compile Include="scripts\extendMethod.js" />
     <Content Include="index.html" />
